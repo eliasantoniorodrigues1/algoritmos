@@ -1,0 +1,16 @@
+D:\Cursos\Graduação PUC Minas - ADS\Algoritmo e Logica\Exercicios CSharp\CalculaHipotenusa\bin\Debug\net5.0\CalculaHipotenusa.exe
+D:\Cursos\Graduação PUC Minas - ADS\Algoritmo e Logica\Exercicios CSharp\CalculaHipotenusa\bin\Debug\net5.0\CalculaHipotenusa.deps.json
+D:\Cursos\Graduação PUC Minas - ADS\Algoritmo e Logica\Exercicios CSharp\CalculaHipotenusa\bin\Debug\net5.0\CalculaHipotenusa.runtimeconfig.json
+D:\Cursos\Graduação PUC Minas - ADS\Algoritmo e Logica\Exercicios CSharp\CalculaHipotenusa\bin\Debug\net5.0\CalculaHipotenusa.runtimeconfig.dev.json
+D:\Cursos\Graduação PUC Minas - ADS\Algoritmo e Logica\Exercicios CSharp\CalculaHipotenusa\bin\Debug\net5.0\CalculaHipotenusa.dll
+D:\Cursos\Graduação PUC Minas - ADS\Algoritmo e Logica\Exercicios CSharp\CalculaHipotenusa\bin\Debug\net5.0\ref\CalculaHipotenusa.dll
+D:\Cursos\Graduação PUC Minas - ADS\Algoritmo e Logica\Exercicios CSharp\CalculaHipotenusa\bin\Debug\net5.0\CalculaHipotenusa.pdb
+D:\Cursos\Graduação PUC Minas - ADS\Algoritmo e Logica\Exercicios CSharp\CalculaHipotenusa\obj\Debug\net5.0\CalculaHipotenusa.csprojAssemblyReference.cache
+D:\Cursos\Graduação PUC Minas - ADS\Algoritmo e Logica\Exercicios CSharp\CalculaHipotenusa\obj\Debug\net5.0\CalculaHipotenusa.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\Graduação PUC Minas - ADS\Algoritmo e Logica\Exercicios CSharp\CalculaHipotenusa\obj\Debug\net5.0\CalculaHipotenusa.AssemblyInfoInputs.cache
+D:\Cursos\Graduação PUC Minas - ADS\Algoritmo e Logica\Exercicios CSharp\CalculaHipotenusa\obj\Debug\net5.0\CalculaHipotenusa.AssemblyInfo.cs
+D:\Cursos\Graduação PUC Minas - ADS\Algoritmo e Logica\Exercicios CSharp\CalculaHipotenusa\obj\Debug\net5.0\CalculaHipotenusa.csproj.CoreCompileInputs.cache
+D:\Cursos\Graduação PUC Minas - ADS\Algoritmo e Logica\Exercicios CSharp\CalculaHipotenusa\obj\Debug\net5.0\CalculaHipotenusa.dll
+D:\Cursos\Graduação PUC Minas - ADS\Algoritmo e Logica\Exercicios CSharp\CalculaHipotenusa\obj\Debug\net5.0\ref\CalculaHipotenusa.dll
+D:\Cursos\Graduação PUC Minas - ADS\Algoritmo e Logica\Exercicios CSharp\CalculaHipotenusa\obj\Debug\net5.0\CalculaHipotenusa.pdb
+D:\Cursos\Graduação PUC Minas - ADS\Algoritmo e Logica\Exercicios CSharp\CalculaHipotenusa\obj\Debug\net5.0\CalculaHipotenusa.genruntimeconfig.cache
